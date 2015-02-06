@@ -84,7 +84,7 @@ exports["RSS (2.0)"] = {
           <item>\
              <title>Astronauts\' Dirty Laundry</title>\
              <link>http://liftoff.msfc.nasa.gov/news/2003/news-laundry.asp</link>\
-             <description>Compared to earlier spacecraft, the International Space Station has many luxuries, but laundry facilities are not one of them.  Instead, astronauts have other options.</description>\
+             <description><![CDATA[Compared to earlier spacecraft, the International Space Station has many luxuries, but laundry facilities are not one of them.  Instead, astronauts have other options.</description>]]>\
              <pubDate>Tue, 20 May 2003 08:56:02 GMT</pubDate>\
              <guid>http://liftoff.msfc.nasa.gov/2003/05/20.html#item570</guid>\
 \
@@ -123,7 +123,7 @@ exports["RSS (2.0)"] = {
                  id: "http://liftoff.msfc.nasa.gov/2003/05/20.html#item570"
                 , title: "Astronauts' Dirty Laundry"
                 , link: "http://liftoff.msfc.nasa.gov/news/2003/news-laundry.asp"
-                , description: "Compared to earlier spacecraft, the International Space Station has many luxuries, but laundry facilities are not one of them.  Instead, astronauts have other options."
+                , description: "Compared to earlier spacecraft, the International Space Station has many luxuries, but laundry facilities are not one of them.  Instead, astronauts have other options.]]>"
                 , pubDate: new Date("Tue, 20 May 2003 08:56:02 GMT")
                 }
             ]
